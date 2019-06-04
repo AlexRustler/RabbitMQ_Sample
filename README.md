@@ -1,2 +1,2 @@
 # RabbitMQ_Sample
-Testing work with RabbitMQ Queues
+My adapter for testing work with RabbitMQ Queues
